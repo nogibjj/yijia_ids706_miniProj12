@@ -5,7 +5,7 @@ This repository demonstrates a simple Python application to calculate the mean o
 
 
 ## CI/CD Badge
-[![Build and Push Docker Image](https://github.com/nogibjj/yijia_ids706_miniProj12/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/yijia_ids706_miniProj12/actions/workflows/cicd.yml)
+[![CI](https://github.com/nogibjj/yijia_ids706_miniProj12/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/yijia_ids706_miniProj12/actions/workflows/cicd.yml)
 
 
 ## Link to Docker Image
@@ -21,10 +21,9 @@ Find the Docker image on Docker Hub: [yijia123/mini12](https://hub.docker.com/re
 └── README.md           # Project documentation
 ```
 
-
 ## Setup Instructions
 ### 1. Install Prerequisites
-    Install Docker
+Please make sure you have Docker installed and a Docker Hub account.
 
 ### 2. Clone the Repository
 ```sh
